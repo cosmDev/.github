@@ -1,4 +1,4 @@
-# 👋 Welcome to CosmDev's GitHub Profile
+# 👋 Welcome to CosmDev's GitHub Profile  
 
 We are an enthusiastic team of developers working in the world of web3, based in France. Our mission is to innovate and create solutions that bridge the gap between traditional applications and blockchain technology.
 
